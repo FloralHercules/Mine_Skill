@@ -1,0 +1,6 @@
+interface:
+  display_name: "Visio 转可编辑 PPT"
+  short_description: "将 Visio 页面转为轻量可编辑 PPT，保留原生形状、文字和公式"
+  default_prompt: "请用 $visio-to-editable-ppt 将指定 Visio 页面转换为一页可编辑的原生形状 PPT，并检查排版与打开效果。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转可编辑 Visio"
+  short_description: "重建图片为可编辑图形与 MathType 公式，按项目汇总到同一个 Visio 文件"
+  default_prompt: "使用 $image-to-visio 将这张图重建为可编辑 Visio 页面，并追加到当前项目的总文件。"
